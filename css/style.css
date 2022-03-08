@@ -283,11 +283,3 @@ footer img {
     width: 100%;
   }
 }
-@media screen and (max-width: 320px) {
-  header {
-    width: 120%;
-  }
-  section {
-    width: 120%;
-  }
-}
