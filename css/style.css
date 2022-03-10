@@ -293,6 +293,9 @@ footer img {
   }
 }
 @media screen and (max-width: 320px) {
+  body {
+    position: absolute;
+  }
   .languages li {
     margin: 3% 3% 3% 15%;
   }
